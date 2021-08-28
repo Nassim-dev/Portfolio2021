@@ -1,0 +1,19 @@
+{
+  "name": "portfolio21-yazi",
+  "version": "1.0.0",
+  "description": "Mon portfolio professionnel de 2021",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nassim-dev/Portfolio2021.git"
+  },
+  "author": "nassim-yazi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nassim-dev/Portfolio2021/issues"
+  },
+  "homepage": "https://github.com/Nassim-dev/Portfolio2021#readme"
+}
